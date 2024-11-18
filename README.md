@@ -16,7 +16,11 @@ I've also always had a passion for civil aviation, so I'm looking forward to one
 
 ### 👷‍♂️ What am I working on ?
 
-I'm currently working on a horror video game where the player is confined to an enclosed space, pursued by monsters. The project isn't visible yet because I'm testing what I can do before taking going on this adventure, but I'd really like to make a video game that will be available on gaming platforms when the time comes.
+I was recently playing around with generative AI (GPT) and text-to-speech AI for a potential future assistant project, when I wanted to try using AI to replace the singers' voices in songs with my voice. I like this fun way of using AI. Unfortunately, I couldn't find anything that suited me so I decided to try coding my own application: [AI-Voice-Cover](https://github.com/LoukaDOZ/AI-Voice-Cover). It's working now but the result isn't convincing, so I'm going to keep improving it.
+
+### 🔬 What am I learning ?
+
+A few months ago, I did a [Sort Renderer](https://github.com/LoukaDOZ/Sort-renderer) project in C and I really loved doing it and realised how much I love using the language. Following on from that, I want to learn C++, so I've started an OpenClassroom course and I solve LeetCode's day-to-day problems with it every day.
 
 ### 📫 How to reach me ?
 
